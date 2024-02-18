@@ -7,7 +7,7 @@
 #include <BTDSTD_C/Logger.h>
 
 #include <vulkan/vulkan.h>
-#include <vma/vk_mem_alloc.h>
+#include <vk_mem_alloc.h>//<vk_mem_alloc.h>
 #include <GLFW/glfw3.h>
 
 //defines a swapchain
